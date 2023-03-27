@@ -1,0 +1,5 @@
+User:
+123
+Products:
+Pineapple-Apricot Salsa , 4.375 stars, 45 calories, 1 protein, 0 fat, 3 sodium, $80.
+Price: $80
