@@ -5,6 +5,8 @@ A Java application for managing a restaurant. Features login, CRUD operations, f
 
 ## Features
 Login and register GUIs. Red underline for invalid input.
+
+
 ![alt text](https://github.com/teodor-profeanu/Restaurant-Management/blob/main/screenshots/login.png?raw=true)
 ![alt text](https://github.com/teodor-profeanu/Restaurant-Management/blob/main/screenshots/register.png?raw=true)
 
